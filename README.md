@@ -6,9 +6,11 @@
 后端使用Java编程语言，Springboot搭建服务器
 
 策略模式示意图：
+
 ![image](https://user-images.githubusercontent.com/65580753/156559069-8e6d36af-1bdb-4c38-8f4c-69d8cef52e0e.png)
 
 排序示意图：
+
 ![image](https://user-images.githubusercontent.com/65580753/156559189-a033f2b1-16dd-4001-999e-b5fe321daa9c.png)
 
 
